@@ -1,4 +1,4 @@
-FROM takatost/nginx-php-fpm:latest
+FROM takatost/nginx-php-fpm:7.1
 
 ENV NODE_VERSION 10.16.0
 
